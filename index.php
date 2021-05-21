@@ -17,3 +17,4 @@ for ($i=0; $i < $tamanho; $i++) {
     echo $Cadastro[$i];
     echo "<br>";
 }
+?>
