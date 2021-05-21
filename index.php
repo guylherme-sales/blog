@@ -1,6 +1,7 @@
 <?php
 
 echo "Praticando Arrays <br>";
+echo "Praticando com HEROKU <br>";
 
 $Cadastro = array("Maria da Silva", 30, 1.7, true, "Olá", false);
 $cadastro = array("nome" => "Maria da Silva", "idade" => 30, "altura" => 1.7, "fumante" => true);
